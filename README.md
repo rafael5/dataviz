@@ -1,8 +1,9 @@
 # Data Visualization
 
 ## Treemaps
-Complex hierachircal data (TOC, JSON, ...)
-#### Rationale
+Definition: Treemaps are visualizations for hierarchical data. They are made of a series of nested rectangles of sizes proportional to the corresponding data value. A large rectangle represents a branch of a data tree, and it is subdivided into smaller rectangles that represent the size of each node within that branch.
+
+__Rationale__
 * https://www.nngroup.com/articles/treemaps/
 * https://www.microsoft.com/en-us/microsoft-365/blog/2015/08/11/breaking-down-hierarchical-data-with-treemap-and-sunburst-charts/
 
